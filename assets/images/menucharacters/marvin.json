@@ -1,11 +1,10 @@
 {
 	"idle_anim": "idle",
-	"image": "marvinmenu",
+	"confirm_anim": "idle",
 	"position": [
-		-11,
-		192
+		8,
+		185
 	],
-	"flipX": false,
-	"scale": 0.45,
-	"confirm_anim": "M Dad Idle"
+	"scale": 0.5,
+	"image": "MarvinMenu - Copy"
 }

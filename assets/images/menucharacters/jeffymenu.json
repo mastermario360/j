@@ -1,11 +1,10 @@
 {
-	"idle_anim": "idle",
-	"image": "jeffymenu",
+	"confirm_anim": "idol",
+	"idle_anim": "idol",
 	"position": [
-		159,
-		162
+		802,
+		364
 	],
-	"flipX": false,
-	"scale": 0.5,
-	"confirm_anim": "M Dad Idle"
+	"scale": 0.4,
+	"image": "yelloJeffy"
 }

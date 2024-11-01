@@ -1,11 +1,10 @@
 {
-	"idle_anim": "idle",
-	"image": "djmenu",
+	"idle_anim": "DJ Idle",
+	"confirm_anim": "DJ Idle",
 	"position": [
-		119,
-		122
+		124,
+		139
 	],
-	"flipX": false,
-	"scale": 0.55,
-	"confirm_anim": "M Dad Idle"
+	"scale": 0.45,
+	"image": "DJ"
 }
