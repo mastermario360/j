@@ -25,6 +25,24 @@
 				93
 			]
 		]
+		[
+			"the love potion",
+			"britt",
+			[
+				255,
+				20,
+				20
+			]
+		]
+		[
+			"the cring",
+			"drawing-jeffy",
+			[
+				0,
+				0,
+				0
+			]
+		]		
 	],
 	"hideStoryMode": true,
 	"weekName": "Custom Week",
