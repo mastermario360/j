@@ -1,50 +1,49 @@
 {
-	"storyName": "",
+	"storyName": "Bonus",
 	"difficulties": "Normal",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
+	"weekBackground": "kitchen",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
+	"weekBefore": "drawingjeffyweek",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
-			"mario please",
+			"mario-please",
 			"by",
 			[
-				46,
-				40,
-				93
+				255,
+				80,
+				0
 			]
-		]
+		],
 		[
-			"the love potion",
+			"the-love-potion",
 			"britt",
 			[
 				255,
-				20,
-				20
-			]
-		]
-		[
-			"the cring",
-			"drawing-jeffy",
-			[
-				0,
-				0,
+				80,
 				0
 			]
-		]		
+		],
+		[
+			"the-cring",
+			"drawing-jeffy",
+			[
+				255,
+				80,
+				0
+			]
+		]
 	],
 	"hideStoryMode": true,
-	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
 }

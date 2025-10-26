@@ -147,8 +147,8 @@
 	"no_antialiasing": false,
 	"image": "characters/jeffy-confused-player",
 	"position": [
-		0,
-		-200
+		140,
+		-350
 	],
 	"healthicon": "jeffy",
 	"flip_x": true,

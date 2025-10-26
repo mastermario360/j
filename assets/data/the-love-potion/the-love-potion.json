@@ -93,11 +93,21 @@
 				]
 			],
 			[
+				59000,
+				[
+					[
+						"brittrans",
+						"",
+						""
+					]
+				]
+			],
+			[
 				59788.8471177945,
 				[
 					[
 						"Change Character",
-						"1",
+						"dad",
 						"Britknee"
 					],
 					[
@@ -107,7 +117,7 @@
 					],
 					[
 						"Change Character",
-						"0",
+						"bf",
 						"jeffy-happy-player"
 					]
 				]
@@ -147,7 +157,7 @@
 				[
 					[
 						"Change Character",
-						"0",
+						"bf",
 						"jeffy-confused-player"
 					]
 				]
@@ -167,7 +177,7 @@
 				[
 					[
 						"Change Character",
-						"0",
+						"bf",
 						"jeffy-happy-player"
 					]
 				]
@@ -356,13 +366,18 @@
 				157864.661654136,
 				[
 					[
+						"dragtrans",
+						"",
+						""
+					],
+					[
 						"Change Character",
-						"1",
+						"dad",
 						"dragon"
 					],
 					[
 						"Change Character",
-						"0",
+						"bf",
 						"jeffy-scared-player"
 					]
 				]

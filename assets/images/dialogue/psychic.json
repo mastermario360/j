@@ -1,76 +1,59 @@
 {
-	"position": [
-		0,
-		50
-	],
-	"dialogue_pos": "right",
-	"scale": 1.25,
-	"image": "BF_Dialogue",
+	
+	"image": "Psy_Dialogue",
+	"dialogue_pos": "left",
+
 	"animations": [
 		{
-			"idle_offsets": [
-				-1,
-				-12
-			],
+			"anim": "talk",
+
 			"loop_offsets": [
 				0,
-				0
-			],
-			"anim": "talk",
-			"idle_name": "BF0",
-			"loop_name": "BF LOOP"
-		},
-		{
-			"idle_offsets": [
-				4,
 				-8
 			],
-			"anim": "excited",
-			"loop_offsets": [
-				5,
-				0
+			"loop_name": "PSY loop",
+
+			"idle_offsets": [
+				0,
+				-8
 			],
-			"idle_name": "BF EXCITED0",
-			"loop_name": "BF EXCITED LOOP"
+			"idle_name": "PSYtalk"
 		},
 		{
+			"anim": "angry",
+
+			"loop_offsets": [
+				0,
+				0
+			],
+			"loop_name": "PSY ANGRY loop",
+
 			"idle_offsets": [
 				0,
 				0
 			],
-			"anim": "pissed",
+			"idle_name": "PSY angry"
+		},
+		{
+			"anim": "unamused",
+
 			"loop_offsets": [
 				0,
 				0
 			],
-			"idle_name": "BF PISSED0",
-			"loop_name": "BF PISSED LOOP"
-		},
-		{
+			"loop_name": "PSY UNAMUSED loop",
+
 			"idle_offsets": [
-				-6,
-				-11
-			],
-			"anim": "shocked",
-			"loop_offsets": [
-				-4,
+				0,
 				0
 			],
-			"idle_name": "BF SHOCK0",
-			"loop_name": "BF SHOCK LOOP"
-		},
-		{
-			"loop_offsets": [
-				-3,
-				0
-			],
-			"anim": "confused",
-			"idle_offsets": [
-				-6,
-				-11
-			],
-			"loop_name": "BF CONFUSED LOOP",
-			"idle_name": "BF CONFUSED0"
+			"idle_name": "PSY unamused"
 		}
-	]
+	],
+
+	"position": [
+		0,
+		-140
+	],
+	"scale": 1
 }

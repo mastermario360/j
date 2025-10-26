@@ -9,10 +9,11 @@
 		253
 	],
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"jeffymenu",
 		"bf",
-		""
+		"gf"
 	],
 	"songs": [
 		[
@@ -43,6 +44,5 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "Custom Week"
 }

@@ -2,18 +2,13 @@
 	"storyName": "vs drawing jeffy",
 	"hideFreeplay": false,
 	"weekBackground": "kitchen",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"djmenu",
-		"marvinmenu",
-		"rosemenu"
-	],
 	"songs": [
 		[
 			"play-doe",
@@ -62,5 +57,10 @@
 		]
 	],
 	"hideStoryMode": false,
+	"weekCharacters": [
+		"DrawingJeffy",
+		"marvin",
+		"Rose"
+	],
 	"weekName": "Custom Week"
 }
